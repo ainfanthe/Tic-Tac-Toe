@@ -1,5 +1,4 @@
 classdef Tictactoe < matlab.apps.AppBase
- % Properties that correspond to app components
     properties (Access = public)
         TTT                    matlab.ui.Figure
         dispturn               matlab.ui.control.Label
@@ -682,7 +681,7 @@ methods (Access = private)
             else
 
                 % Focus the running singleton app
-                figure(runningApp.MTTT)
+                figure(runningApp.TTT)
 
                 app = runningApp;
             end
