@@ -460,7 +460,7 @@ methods (Access = private)
             app.TTT.Name = 'MATLAB Tic-Tac-Toe 1.5';
             app.TTT.Resize = 'off';
             app.TTT.HandleVisibility = 'callback';
-            app.TTT.Tag = 'MTTT';
+            app.TTT.Tag = 'TTT';
 
             % Create dispturn
             app.dispturn = uilabel(app.TTT);
