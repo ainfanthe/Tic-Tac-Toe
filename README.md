@@ -1,6 +1,6 @@
 # Simple Matlab Tic Tac Toe
 
-A simple implementation of the traditional Tic Tac Toe in a Matlab 3 x 3 matrix using App Design, with declaration of some predefined conditionals such as computer moves and possibility of mode change. **I could not get the difficulty Dropdown to work.**
+**A simple implementation of the traditional Tic Tac Toe in a Matlab 3 x 3 matrix using App Design**, with declaration of some predefined conditionals such as computer moves and possibility of mode change.
 
 > **Note:** MATLAB Central File Exchange resources, especially those of **Husam Bilal** and **Arthur Neves**, have been used as a guide. Corresponding credits to them for providing code snippets as inspiration.
 
