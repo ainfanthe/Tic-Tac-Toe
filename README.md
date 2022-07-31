@@ -9,6 +9,7 @@ The archaic GUIDE has not been used in any way, but I have directly written the 
 
 ---
 # About
+This has been developed during computation classes at the university. Info as follows: 
 ```` matlab
 function InfoButtonPushed(app, event)
   helpdlg({'National University of Colombia';'Andrés F. Hernández'; '2021, july 24';''},'Info');
